@@ -21,6 +21,12 @@ Built as part of my Flutter learning journey while transitioning from 10+ years 
 
 ---
 
+## 📸 Screenshots
+<p align="center">
+  <img src="flutter_currecy_converter_app.png" alt="Home Screen" width="250"/>
+</p>
+
+
 ## 🚀 Getting Started
 1. Clone the repository
    ```bash
